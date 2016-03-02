@@ -114,7 +114,6 @@ public class EntityTFIceBomb extends EntityThrowable {
          --this.zoneTimer;
          this.makeIceZone();
          if(this.zoneTimer <= 0) {
-		    //LeRioN fix
             this.detonate();
          }
       } else {
