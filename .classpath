@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src/main/java"/>
-	<classpathentry exported="true" kind="lib" path="decomp/reverse/deobf/twilightforest-server.jar"/>
 	<classpathentry exported="true" kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/EventHelper-1.4-dev.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/twilightforest-server-dev.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/twilightforest-server.jar"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/1git/TwillengForest/lib/bukkit-1.7.10-R0.1-20140817.175650-8.jar"/>
+	<classpathentry kind="lib" path="E:/1git/TwillengForest/lib/forge-1.7.10-10.13.4.1558-1.7.10-universal.jar"/>
+	<classpathentry kind="lib" path="E:/1git/API/minecraft.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
